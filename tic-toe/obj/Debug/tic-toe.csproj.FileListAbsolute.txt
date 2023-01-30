@@ -1,0 +1,12 @@
+C:\Users\stepa\source\repos\tic-toe\tic-toe\bin\Debug\tic-toe.exe.config
+C:\Users\stepa\source\repos\tic-toe\tic-toe\bin\Debug\tic-toe.exe
+C:\Users\stepa\source\repos\tic-toe\tic-toe\bin\Debug\tic-toe.pdb
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic-toe.csproj.AssemblyReference.cache
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic-toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic_toe.Form1.resources
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic_toe.Properties.Resources.resources
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic-toe.csproj.GenerateResource.cache
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic-toe.csproj.CoreCompileInputs.cache
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic-toe.exe
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic-toe.pdb
+C:\Users\stepa\source\repos\tic-toe\tic-toe\obj\Debug\tic_toe.Form2.resources
